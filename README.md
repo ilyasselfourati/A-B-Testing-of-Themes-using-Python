@@ -1,4 +1,4 @@
-<h1 align="center">Test A/B de Thèmes pour une Application Web avec Python</h1>
+<h1 align="center"> 🧪 Test A/B de Thèmes pour une Application Web avec Python</h1>
 
 De nombreuses plateformes web et applications utilisent des `tests A/B` pour mener des expériences et **déterminer** le meilleur design, **agencement** ou **thème** pour leur interface. Plutôt que de se fier à des suppositions ou à des intuitions, les applications et sites web peuvent tester différentes variations de design en temps réel auprès des utilisateurs afin de mesurer leur impact sur le comportement des utilisateurs et sur les métriques. En collectant et en analysant les données, ils peuvent identifier les éléments de design qui plaisent le plus aux utilisateurs et optimiser leur offre en conséquence. Si vous souhaitez savoir comment réaliser un test A/B pour choisir le meilleur thème pour un site web, cet article est fait pour vous. Dans cet article, je vais vous guider à travers la réalisation d’un test A/B de thèmes en utilisant Python.
 
